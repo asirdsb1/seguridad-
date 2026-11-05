@@ -6,3 +6,4 @@ Emisor: <img width="1711" height="896" alt="image" src="https://github.com/user-
 
 Receptor: <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/880d536a-33bf-4fe8-9412-68a4ab538977" />
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e1e2076b-4a8a-47b5-9f27-50eee74d559c" />
